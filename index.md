@@ -21,7 +21,11 @@ This page will contain all documentation and links that follow my master thesis.
 
 - Macro Prototypes:
   - Macro 2.1
+    - App 1
+    - App 2
   - Macro 2.0
+    - App 1
+    - App 2
   - Macro 1.0
 - [Blog entry at the Music, Communication and Technology blog](https://mct-master.github.io/masters-thesis/2021/12/15/MicroMacro.html)
 - [this](ur)
