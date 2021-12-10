@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/FractionMari/masterthesis/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Check out my video:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G6kqDY6w_q8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -15,7 +18,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G6kqDY6w_q8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - Bulleted
 - List
 
