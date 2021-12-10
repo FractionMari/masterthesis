@@ -30,6 +30,18 @@ This page will contain all documentation and links that follow my master thesis.
     - [App 1](https://fractionmari.github.io/macro/)
     - [App 2](https://fractionmari.github.io/macro/prototype2.html)
     - [App 3](https://fractionmari.github.io/macro/prototype3.html)
+    - [Github page](https://github.com/FractionMari/macro)
+- Micro Prototypes:
+  - Micro 2.1
+    - [App 1](https://fractionmari.github.io/micro3/)
+    - [App 2](https://fractionmari.github.io/micro3/prototype2.html)
+  - Micro 2.0
+    - [App 1](https://fractionmari.github.io/micro2)
+    - [App 2](https://fractionmari.github.io/micro2/prototype2.html)
+  - Micro 1.0
+    - [App 1](https://fractionmari.github.io/micro/)
+    - [App 2](https://fractionmari.github.io/micro/prototype2.html)
+    - [App 3](https://fractionmari.github.io/micro/prototype3.html)
 - [Blog entry at the Music, Communication and Technology blog](https://mct-master.github.io/masters-thesis/2021/12/15/MicroMacro.html)
 - [this](ur)
 
