@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my Master's Thesis page!
 
-You can use the [editor on GitHub](https://github.com/FractionMari/masterthesis/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is the official web page of my Master's Thesis in Music, Communication and Technology. 
+This title of the Master's Thesis is _Micro and Macro: Developing New Accessible Musicking Technologies_ and was delivered on the 15th of December 2021 at the University of Oslo. 
+The thesis can be downloaded from [this](ur) link.
+This page will contain all documentation and links that follow my master thesis.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Check out my video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G6kqDY6w_q8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
