@@ -15,6 +15,18 @@ This page will contain all documentation and links that follow my master thesis.
 ### A third video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/birDS7ccUOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+### Links
+
+
+- Macro Prototypes:
+  - Macro 2.1
+  - Macro 2.0
+  - Macro 1.0
+- [Blog entry at the Music, Communication and Technology blog](https://mct-master.github.io/masters-thesis/2021/12/15/MicroMacro.html)
+- [this](ur)
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
