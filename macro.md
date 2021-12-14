@@ -1,0 +1,16 @@
+# Links:
+
+- [Web page of the project](https://fractionmari.github.io/microandmacro/)
+- [The Master's thesis pdf]()
+- [Macro 2.1 github repository](https://github.com/FractionMari/macro3)
+- [Macro 2.0 github repository](https://github.com/FractionMari/macro2)
+- [Macro 1.0 github repository](https://github.com/FractionMari/macro)
+- [Micro 2.1 github repository](https://github.com/FractionMari/micro3)
+- [Micro 2.0 github repository](https://github.com/FractionMari/micro2)
+- [Micro 1.0 github repository](https://github.com/FractionMari/micro)
+- [Macro 2.1 web-app](https://fractionmari.github.io/macro3/)
+- [Macro 2.0 web-app](https://fractionmari.github.io/macro2/)
+- [Macro 1.0 web-app](https://fractionmari.github.io/macro/)
+- [Micro 2.1 web-app](https://fractionmari.github.io/micro3/) (must be opened on a smartphone)
+- [Micro 2.0 web-app](https://fractionmari.github.io/micro2/) (must be opened on a smartphone)
+- [Micro 1.0 web-app](https://fractionmari.github.io/micro/) (must be opened on a smartphone)
