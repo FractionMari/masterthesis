@@ -1,13 +1,20 @@
-.body{
-
-color: #ff00dd;
-background-color: #111;
-font-weight: 700;
-text-decoration: none;
-font-style: normal;
-font-variant: small-caps;
-text-transform: none;
+body {
+	margin: 20px;
+    font-family: 'Genos', sans-serif;
+    background-color: black;
+    color: #ff00dd; 
+    font-size: 25px;
+    
 }
+
+a{
+    color: rgb(255, 157, 247);
+  }
+  
+
+a:visited {
+    color: pink;
+  }
 
 .sidenav {
     height: 100%;
